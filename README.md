@@ -1,4 +1,4 @@
-# AMISR_sky_mapper
+# AMISR Sky Map
 
 ## JRO
 
